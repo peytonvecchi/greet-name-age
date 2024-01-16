@@ -1,7 +1,7 @@
-Very simple python program.
+very simple python program.
 
-Program asks for your name,
-greets you,
-prints the length of your name,
-asks for your age,
-and tells you how old you will be next year.
+1. program asks for users name
+2. greets user using their name
+3. prints the length of the user's name
+4. asks for users age
+5. tells user how old they will be next year
